@@ -1,0 +1,22 @@
+Title: To-do list App Managment 
+
+Abstract:
+
+My program intends to behave like a management tool that allows the user to create edit and delete tasks.The program uses OOP concepts of classes ,objects ,
+inheritance,encapsulation along with file handling and GUI.The Program includs the following features:
+
+Creating task with a title description and a due date to complete the task 
+Editing the task details 
+Deleting the task
+Dispay a list of added tasks
+
+CLASSES INVOLVED ARE:
+ 
+1. Task (Interface)
+2. TodoTask (Class) implements Task
+3. ReminderTask (Class) implements Task
+4. TaskList (Class)
+5. TaskManager (Class)
+6. Category (Class)
+7. User (Class)
+8. ManagementSystem (Class) 
